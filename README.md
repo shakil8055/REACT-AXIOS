@@ -1,4 +1,7 @@
-# React + Vite
+# User Data Management
+This project was done using React JS - AXIOS
+OUTPUT;-https://sha-user-management.netlify.app
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
